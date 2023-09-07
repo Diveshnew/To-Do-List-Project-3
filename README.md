@@ -35,12 +35,11 @@ A to-do list is a common way to keep track of tasks and manage your time effecti
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repo-name.git`
-2. Navigate to the project directory with `cd your-repo-name`
+1. Clone this repository to your local machine using `git clone https://github.com/Diveshnew/To-Do-List-Project-3.git`
+2. Navigate to the project directory with `cd To-Do-List-Project-3`
 3. Install the project dependencies with `npm init`
-4. Install the project dependancies with `npm i express,body-parser`
-5. Start the `nodemon app.js`
-6. Open your web browser and visit `http://localhost:3000`
+4. Start the `nodemon app.js`
+5. Open your web browser and visit `http://localhost:3000`
 
 ---
 
